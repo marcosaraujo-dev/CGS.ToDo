@@ -36,8 +36,8 @@ Tela criação Todo
 <br/>
 <h4>Reminder</h4>
 Tela criação Reminder
-
 <img src="src/images/reminder.jpg" \>
+
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
